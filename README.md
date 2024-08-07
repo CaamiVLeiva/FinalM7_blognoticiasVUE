@@ -22,6 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# FinalM7_Blognoticias
-# FinalM7_blognoticiasVUE
-# FinalM7_blognoticiasVUE
